@@ -26,6 +26,19 @@
 */
 
 const POSTS = [
+ {
+    id: "mt-auburn-video-1",
+    title: "Mount Auburn Cemetery Video",
+    date: "2026-08-10",
+    excerpt: "A video of Mount Auburn Cemetery in Cambridge, MA.",
+    content: [
+      "A video of Mount Auburn Cemetery in Cambridge, MA."
+    ],
+    image: null,
+    imagePosition: "right",
+    embed: "https://www.youtube.com/embed/aC5RypAIZVo?si=d45VTlOtRoeOQtup"
+},
+  
   {
     id: "guitar-demo-1",
     title: "Short Guitar Riff",
