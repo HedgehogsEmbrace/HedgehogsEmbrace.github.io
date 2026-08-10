@@ -23,6 +23,8 @@
 
   const heroHtml = post.image
     ? `<img class="post-hero" src="${post.image}" alt="${post.title}">`
+    : post.embed
+    ? `<iframe class="post-hero" src="${post.embed}" frameborder="0" allowfullscreen style="width:100%;aspect-ratio:16/9;"></iframe>`
     : post.media
     ? post.media.type === "audio"
         ? `<audio class="post-hero" controls src="${post.media.src}"></audio>`
