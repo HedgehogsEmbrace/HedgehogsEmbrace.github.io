@@ -31,7 +31,7 @@ const POSTS = [
     title: "Rhinoceros at the American Repertory Theater Review",
     date: "2026-08-19",
     excerpt: "Diane Paulus brings Ionesco’s metaphorical warning to life for her final show at the Loeb Drama Center.",
-    content: [   
+    content: [  
 `Diane Paulus brings Ionesco’s metaphorical warning to life for her final show at the Loeb Drama Center.`,
 `Rhinoceroses. Giant beasts of the African savannah and Asian jungle. They are hulking, heavy, horned, and…green? In the 30s and 40s, Romanian playwright Eugene Ionesco watched as those around him, highly educated or otherwise, fell into the embrace of fascist ideology. The Iron Guard was a Romanian fascist paramilitary insurgency which swept through the country in the first half of the twentieth century. It recruited Romanians who believed in its nationalist crusade, who were struggling with the stagnant Romanian economy, or who thought democracy had become too corrupt. They conducted political terrorism, ethnic pogroms, and ideological suppression. They worked with the military to ally Romania with Nazi Germany. They wore green uniforms.`,
 `In Rhinoceros, Ionesco illustrates the way movements and ideas can rapidly change people into something they were not. The play follows Bérenger, an alcoholic newspaper employee played by John Turturro, who has to watch as those around him turn into rhinoceroses one by one. The play utilizes this modernist metaphor to create an absurd, amusing, and cautionary narrative which warns its audience of the dangers of ideological movements or other conformities. Turturro is wonderful as Bérenger. He successfully makes the lazy, seemingly unprincipled clerk sympathetic and emotional, while not being afraid to remind the audience of the absurdity of the play’s premise with humor. Bérenger’s turn from slacker to world savior is portrayed expertly through the frenzy and horror we see Turturro build in the character.`,
@@ -44,7 +44,7 @@ const POSTS = [
 `However, art does not always need to have all the answers or hold our hand to the finish line. While it is not without its insufficiencies, Rhinoceros is still an interesting and entertaining play, and a humorous and moving display of how the world can change around ordinary people so fast and so suddenly. The director, the cast, and the rest of the American Repertory Theater have done an excellent job in their production. They strike a great balance between the absurdist metaphor and the human characters suffering at the center of it. I would recommend seeing it.'
 ],
     image: "assets/posts/rhino.jpg",
-    imagePosition: "right"
+    imagePosition: "right",
   },
   
   {
