@@ -320,3 +320,7 @@ body.other-page {
   .other-art { grid-row: 1; max-width: 220px; margin: 0 auto; }
   .other-heading, .other-back { grid-column: 1; text-align: center; margin-top: 24px; }
 }
+
+.post-body p {
+  text-indent: 2em;
+}
