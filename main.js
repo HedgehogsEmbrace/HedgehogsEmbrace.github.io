@@ -9,8 +9,8 @@
   let order = "desc"; // "desc" = newest first, "asc" = oldest first
 
   function excerptWithReadMore(post) {
-    return `${post.excerpt}<a class="read-more" href="post.html?id=${encodeURIComponent(post.id)}">Read More</a>`;
-  }
+  return post.excerpt;
+}
 
   function renderList() {
     const sorted = [...POSTS].sort((a, b) => {
