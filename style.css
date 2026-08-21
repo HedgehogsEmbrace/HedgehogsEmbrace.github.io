@@ -309,6 +309,7 @@ body.other-page {
 /* ---------- Responsive ---------- */
 
 @media (max-width: 720px) {
+  body { font-size: 16px; }
   .site-header { flex-wrap: wrap; justify-content: center; text-align: center; }
   .site-header .header-art { width: 110px; }
   .panel, .post-panel { padding: 30px 22px; }
