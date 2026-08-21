@@ -6,9 +6,9 @@ FILES
 index.html    Home page (post list)
 about.html    About page
 other.html    Other page
-post.html     Template for a single post (don't need to touch this)
-posts.js      <-- EDIT THIS FILE TO ADD/EDIT/REMOVE POSTS
-style.css     All the styling / colors / fonts
+post.html     Template for a single post
+posts.js      EDIT THIS FILE TO ADD/EDIT/REMOVE POSTS
+style.css     Styling / colors / fonts
 main.js       Renders + sorts the post list on the home page
 post.js       Renders a single post
 
@@ -25,7 +25,7 @@ between { and }), paste it into the POSTS list, and edit the fields:
   image    optional preview image path, or null for a text-only post
   imagePosition   "left" or "right" — only matters if image is set
 
-That's it — save the file and the new post shows up on the home page
+Save the file and the new post shows up on the home page
 automatically, sorted in with the rest.
 
 REPLACING IMAGES
@@ -41,8 +41,7 @@ names (or update the paths in the HTML/posts.js if you rename them):
 
 THE SORT BUTTON
 ----------------
-The mockups didn't show where a sort control should live, so I added
-one ("Sort: Newest First / Oldest First") above the post list on the
+("Sort: Newest First / Oldest First") above the post list on the
 home page — click it to flip the order. Move or restyle it in
 index.html / style.css if you'd like it somewhere else.
 
@@ -52,7 +51,3 @@ Defined at the top of style.css:
   --red          home & post page border   (#AE0C0C)
   --green        about page border         (#869A85)
   --other-bg     Other page background     (#9A4C1A, as you requested)
-
-VIEWING THE SITE
------------------
-Just open index.html in a browser — no build step or server required.
