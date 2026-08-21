@@ -40,7 +40,7 @@ const POSTS = [
 `Eiko’s shopping wasn’t filling the hole inside of her. That’s why she had to keep doing it. Purchasing sprees and impulsive shopping can’t fix what people broke. Only other people can do that. This isn’t to say that a cool outfit that represents you can’t improve your chances of talking with someone similar to yourself, but you can’t over stress its importance. There is no easy way around pushing through social inadequacies. It’s always hard, and yet always worth doing. Pick that phone back up Tony Takitani.`,
 `These days, I’m trying to not buy any more shoes. I’m moving back towards a once a year schedule. The shoes I appreciate the most are the shoes that I wear, the shoes that take me the places I want to be, the shoes that get dirty and don’t mind, the shoes that walk with me to my friends’ homes. Those shoes aren’t in a store, or on a Pinterest board. They’re where they’ve always been. On my feet.`
 ],
-    image: "assets/posts/converse.jpg",
+    image: "assets/posts/converse.png",
     imagePosition: "right",
   },
   
