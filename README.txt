@@ -50,4 +50,4 @@ COLORS
 Defined at the top of style.css:
   --red          home & post page border   (#AE0C0C)
   --green        about page border         (#869A85)
-  --other-bg     Other page background     (#9A4C1A, as you requested)
+  --other-bg     Other page background     (#9A4C1A)
